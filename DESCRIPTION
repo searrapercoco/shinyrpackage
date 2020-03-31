@@ -1,0 +1,10 @@
+Package: shiny.percoco
+Title: Develops a Shiny App Based on Airline Data
+Version: 0.0.0.9000
+Authors@R: "Searra percoco <searrapercoco@gmail.com> [aut, cre]"
+Description: This package creates a shiny app that allows users to manipulate
+        multiple variables within the Airline database included in R.
+Depends: R (>= 3.1.2)
+Imports: shiny
+License: CCO
+LazyData: true
